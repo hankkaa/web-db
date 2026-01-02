@@ -8,6 +8,7 @@
   <h1>회원 정보 입력</h1>
 
   <form>
+    학과: <input type="text"> <br><br>
     이름: <input type="text"> <br><br>
     학번: <input type="text"> <br><br>
     <button>제출</button>
